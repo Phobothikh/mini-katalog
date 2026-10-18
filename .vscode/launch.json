@@ -1,0 +1,18 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "Mini Katalog (Telefon)",
+      "request": "launch",
+      "type": "dart",
+      "program": "lib/main.dart"
+    },
+    {
+      "name": "Mini Katalog (Chrome)",
+      "request": "launch",
+      "type": "dart",
+      "program": "lib/main.dart",
+      "deviceId": "chrome"
+    }
+  ]
+}

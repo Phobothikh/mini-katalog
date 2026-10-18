@@ -1,0 +1,1874 @@
+{
+    "status": "success",
+    "meta": {
+        "title": "WANTAPI Mock Data",
+        "description": "For educational and testing purposes only.",
+        "copyright": "Product names and trademarks are property of their respective owners. Not affiliated with Apple, Samsung, or Xiaomi.",
+        "generated": "2026-10-17T17:45:00+03:00",
+        "count": 50
+    },
+    "data": [
+        {
+            "id": 1,
+            "name": "iPhone 15 Pro",
+            "tagline": "Titanyum. Hafif. Dayanıklı.",
+            "description": "iPhone 15 Pro, havacılık sınıfı titanyum gövdesiyle daha hafif ve dayanıklı bir telefondur. A17 Pro çip oyun ve günlük işlerde yüksek performans sunar. Eylem düğmesi sık kullanılan işleme kısayol olur. 48 MP ana kamera ve telefoto lens, ışık azaldığında da net fotoğraf hedefler. Parlak ekran dışarıda da okunaklı kalır.",
+            "price": "74999",
+            "currency": "TRY",
+            "image": "https://wantapi.com/assets/images/iphone.png",
+            "specs": {
+                "chip": "A17 Pro",
+                "material": "Titanyum",
+                "camera": "48 MP ana"
+            },
+            "badge": "cokSatan",
+            "reviews": [
+                {
+                    "author": "Elif Kaya",
+                    "stars": 5,
+                    "text": "iPhone 15 Pro gün boyu şarjı yetirdi. Ekran dışarıda da okunaklı.",
+                    "date": "12 Ekim 2026"
+                },
+                {
+                    "author": "Mert Aydın",
+                    "stars": 4,
+                    "text": "Kamera gündüz net, akşamda kumlanma makul. Elde kaymıyor.",
+                    "date": "3 Ekim 2026"
+                },
+                {
+                    "author": "Zeynep Demir",
+                    "stars": 4,
+                    "text": "Uygulamalar akıcı açıldı. Kutudan çıkan kablo işimi gördü.",
+                    "date": "21 Eylül 2026"
+                }
+            ],
+            "rating": 4.3,
+            "reviewCount": 77
+        },
+        {
+            "id": 2,
+            "name": "iPhone 15",
+            "tagline": "Yeni kamera, yeni gövde.",
+            "description": "iPhone 15, renkli cam sırt ve yuvarlatılmış alüminyum çerçeveyle gelir. Dinamik Ada, bildirimleri ve canlı etkinlikleri ekranın üstünde toplar. 48 MP ana kamera yüksek çözünürlüklü fotoğraf çeker, 2x telefoto üçüncü bir lens gibi kullanılır. A16 Bionic çip işlemeyi hızlandırır. USB-C girişi aynı kabloyla bilgisayar ve tabletle paylaşılır.",
+            "price": "54999",
+            "currency": "TRY",
+            "image": "https://wantapi.com/assets/images/iphone_pink.png",
+            "specs": {
+                "chip": "A16 Bionic",
+                "material": "Alüminyum",
+                "camera": "48 MP ana"
+            },
+            "reviews": [
+                {
+                    "author": "Elif Kaya",
+                    "stars": 5,
+                    "text": "iPhone 15 gün boyu şarjı yetirdi. Ekran dışarıda da okunaklı.",
+                    "date": "12 Ekim 2026"
+                },
+                {
+                    "author": "Mert Aydın",
+                    "stars": 4,
+                    "text": "Kamera gündüz net, akşamda kumlanma makul. Elde kaymıyor.",
+                    "date": "3 Ekim 2026"
+                },
+                {
+                    "author": "Zeynep Demir",
+                    "stars": 5,
+                    "text": "Uygulamalar akıcı açıldı. Kutudan çıkan kablo işimi gördü.",
+                    "date": "21 Eylül 2026"
+                }
+            ],
+            "rating": 4.7,
+            "reviewCount": 94
+        },
+        {
+            "id": 3,
+            "name": "iPhone 15 Plus",
+            "tagline": "Büyük ekran, uzun pil.",
+            "description": "iPhone 15 Plus, canlı renkli geniş Super Retina XDR ekran sunar. Büyük pil gün boyu kullanıma yeter. A16 Bionic çip uygulama ve oyunlarda akıcı kalır. 48 MP ana kamera portre çekimlerini de destekler.",
+            "price": "62999",
+            "currency": "TRY",
+            "image": "https://wantapi.com/assets/images/iphone_yellow.png",
+            "specs": {
+                "chip": "A16 Bionic",
+                "display": "6,7 inç",
+                "battery": "Gün boyu"
+            },
+            "reviews": [
+                {
+                    "author": "Elif Kaya",
+                    "stars": 5,
+                    "text": "iPhone 15 Plus gün boyu şarjı yetirdi. Ekran dışarıda da okunaklı.",
+                    "date": "12 Ekim 2026"
+                },
+                {
+                    "author": "Mert Aydın",
+                    "stars": 4,
+                    "text": "Kamera gündüz net, akşamda kumlanma makul. Elde kaymıyor.",
+                    "date": "3 Ekim 2026"
+                },
+                {
+                    "author": "Zeynep Demir",
+                    "stars": 4,
+                    "text": "Uygulamalar akıcı açıldı. Kutudan çıkan kablo işimi gördü.",
+                    "date": "21 Eylül 2026"
+                }
+            ],
+            "rating": 4.3,
+            "reviewCount": 111
+        },
+        {
+            "id": 4,
+            "name": "iPhone 14",
+            "tagline": "Güçlü pil, sağlam cam.",
+            "description": "iPhone 14 pil ömrü ve dayanıklılıkta belirgin bir adım atar. Ön camı seramik kalkanla güçlendirilmiştir. Çift kamera hem gün ışığında hem loş sahnede kullanılabilir fotoğraf verir. A15 Bionic çip hızlıdır. Çarpışma algılama, kullanıcı yanıt veremezse yardım çağırmaya yardımcı olur.",
+            "price": "42999",
+            "currency": "TRY",
+            "image": "https://wantapi.com/assets/images/iphone_blue.png",
+            "specs": {
+                "chip": "A15 Bionic",
+                "display": "6,1 inç",
+                "camera": "Çift kamera"
+            },
+            "reviews": [
+                {
+                    "author": "Elif Kaya",
+                    "stars": 5,
+                    "text": "iPhone 14 gün boyu şarjı yetirdi. Ekran dışarıda da okunaklı.",
+                    "date": "12 Ekim 2026"
+                },
+                {
+                    "author": "Mert Aydın",
+                    "stars": 4,
+                    "text": "Kamera gündüz net, akşamda kumlanma makul. Elde kaymıyor.",
+                    "date": "3 Ekim 2026"
+                },
+                {
+                    "author": "Zeynep Demir",
+                    "stars": 5,
+                    "text": "Uygulamalar akıcı açıldı. Kutudan çıkan kablo işimi gördü.",
+                    "date": "21 Eylül 2026"
+                }
+            ],
+            "rating": 4.7,
+            "reviewCount": 128
+        },
+        {
+            "id": 5,
+            "name": "iPhone SE",
+            "tagline": "Küçük gövde, güçlü çip.",
+            "description": "iPhone SE, A15 Bionic çipi kompakt bir gövdeye sığdırır. 4,7 inç Retina HD ekranı ve parmak iziyle açılan ana ekran düğmesi vardır. Akıllı HDR ve Derin Füzyon fotoğrafları toparlar. Camı dayanıklıdır, suya ve toza karşı korumalıdır.",
+            "price": "22999",
+            "currency": "TRY",
+            "image": "https://wantapi.com/assets/images/iphone_se.png",
+            "specs": {
+                "chip": "A15 Bionic",
+                "display": "4,7 inç",
+                "id": "Parmak izi"
+            },
+            "reviews": [
+                {
+                    "author": "Elif Kaya",
+                    "stars": 5,
+                    "text": "iPhone SE gün boyu şarjı yetirdi. Ekran dışarıda da okunaklı.",
+                    "date": "12 Ekim 2026"
+                },
+                {
+                    "author": "Mert Aydın",
+                    "stars": 4,
+                    "text": "Kamera gündüz net, akşamda kumlanma makul. Elde kaymıyor.",
+                    "date": "3 Ekim 2026"
+                },
+                {
+                    "author": "Zeynep Demir",
+                    "stars": 4,
+                    "text": "Uygulamalar akıcı açıldı. Kutudan çıkan kablo işimi gördü.",
+                    "date": "21 Eylül 2026"
+                }
+            ],
+            "rating": 4.3,
+            "reviewCount": 145
+        },
+        {
+            "id": 6,
+            "name": "MacBook Pro 16\"",
+            "tagline": "Geniş ekran, ağır iş.",
+            "description": "16 inç MacBook Pro, M3 Max çiple yoğun işler için tasarlanmıştır. Liquid Retina XDR ekranı HDR içerikte yüksek parlaklığı sürdürür. Pil, ağır projede bile günü çıkaracak kadar uzundur. HDMI, SDXC ve MagSafe 3 bağlantıları dış ekran ve kart okumayı kolaylaştırır.",
+            "price": "119999",
+            "currency": "TRY",
+            "image": "https://wantapi.com/assets/images/macbook.png",
+            "specs": {
+                "chip": "M3 Max",
+                "display": "Liquid Retina XDR",
+                "battery": "22 saat"
+            },
+            "reviews": [
+                {
+                    "author": "Elif Kaya",
+                    "stars": 5,
+                    "text": "MacBook Pro 16\" günlük iş ve derste fanı az çalıştı. Ekran metni net.",
+                    "date": "12 Ekim 2026"
+                },
+                {
+                    "author": "Mert Aydın",
+                    "stars": 4,
+                    "text": "Pil adaptörsüz bir günü çıkardı. Klavye sertliği bana uygun.",
+                    "date": "3 Ekim 2026"
+                },
+                {
+                    "author": "Zeynep Demir",
+                    "stars": 5,
+                    "text": "Taşıması düşündüğümden hafif. Ofis işi için hızı yetiyor.",
+                    "date": "21 Eylül 2026"
+                }
+            ],
+            "rating": 4.7,
+            "reviewCount": 162
+        },
+        {
+            "id": 7,
+            "name": "MacBook Pro 14\"",
+            "tagline": "Kompakt, tam profesyonel.",
+            "description": "14 inç MacBook Pro, M3 Pro çiple ciddi iş akışına yeter. Aynı Liquid Retina XDR ekranı daha küçük gövdede sunar. Altı hoparlör odayı net sesle doldurur. İki harici ekrana kadar destekler ve pili uzun süre gider. Video kurgusu ve müzik için uygundur.",
+            "price": "89999",
+            "currency": "TRY",
+            "image": "https://wantapi.com/assets/images/macbook_silver.png",
+            "specs": {
+                "chip": "M3 Pro",
+                "display": "14,2 inç",
+                "ports": "HDMI, SDXC"
+            },
+            "reviews": [
+                {
+                    "author": "Elif Kaya",
+                    "stars": 5,
+                    "text": "MacBook Pro 14\" günlük iş ve derste fanı az çalıştı. Ekran metni net.",
+                    "date": "12 Ekim 2026"
+                },
+                {
+                    "author": "Mert Aydın",
+                    "stars": 4,
+                    "text": "Pil adaptörsüz bir günü çıkardı. Klavye sertliği bana uygun.",
+                    "date": "3 Ekim 2026"
+                },
+                {
+                    "author": "Zeynep Demir",
+                    "stars": 4,
+                    "text": "Taşıması düşündüğümden hafif. Ofis işi için hızı yetiyor.",
+                    "date": "21 Eylül 2026"
+                }
+            ],
+            "rating": 4.3,
+            "reviewCount": 179
+        },
+        {
+            "id": 8,
+            "name": "MacBook Air 15\"",
+            "tagline": "Geniş, ince, sessiz.",
+            "description": "15 inç MacBook Air geniş ekranı ince ve hafif gövdede toplar. M2 çip iş ve eğlencede hız ile pil tasarrufunu bir arada tutar. 15,3 inç Liquid Retina ekran daha fazla alan açar. Fansız tasarım yük altında da sessiz kalır.",
+            "price": "63999",
+            "currency": "TRY",
+            "image": "https://wantapi.com/assets/images/macbook_air.png",
+            "specs": {
+                "chip": "M2",
+                "weight": "1,5 kg",
+                "design": "Fansız"
+            },
+            "reviews": [
+                {
+                    "author": "Elif Kaya",
+                    "stars": 5,
+                    "text": "MacBook Air 15\" günlük iş ve derste fanı az çalıştı. Ekran metni net.",
+                    "date": "12 Ekim 2026"
+                },
+                {
+                    "author": "Mert Aydın",
+                    "stars": 4,
+                    "text": "Pil adaptörsüz bir günü çıkardı. Klavye sertliği bana uygun.",
+                    "date": "3 Ekim 2026"
+                },
+                {
+                    "author": "Zeynep Demir",
+                    "stars": 5,
+                    "text": "Taşıması düşündüğümden hafif. Ofis işi için hızı yetiyor.",
+                    "date": "21 Eylül 2026"
+                }
+            ],
+            "rating": 4.7,
+            "reviewCount": 196
+        },
+        {
+            "id": 9,
+            "name": "MacBook Air 13\"",
+            "tagline": "İnce, ama hafife alma.",
+            "description": "13 inç MacBook Air taşınabilirliği M2 çiple birleştirir. İnce alüminyum gövde dayanıklı olacak şekilde yenilenmiştir. 13,6 inç Liquid Retina ekran metni net gösterir. 1080p kamera görüntülü aramada yüzü aydınlatır. 18 saate varan pille adaptör evde kalabilir.",
+            "price": "48999",
+            "currency": "TRY",
+            "image": "https://wantapi.com/assets/images/macbook_starlight.png",
+            "specs": {
+                "chip": "M2",
+                "battery": "18 saat",
+                "display": "13,6 inç"
+            },
+            "reviews": [
+                {
+                    "author": "Elif Kaya",
+                    "stars": 5,
+                    "text": "MacBook Air 13\" günlük iş ve derste fanı az çalıştı. Ekran metni net.",
+                    "date": "12 Ekim 2026"
+                },
+                {
+                    "author": "Mert Aydın",
+                    "stars": 4,
+                    "text": "Pil adaptörsüz bir günü çıkardı. Klavye sertliği bana uygun.",
+                    "date": "3 Ekim 2026"
+                },
+                {
+                    "author": "Zeynep Demir",
+                    "stars": 4,
+                    "text": "Taşıması düşündüğümden hafif. Ofis işi için hızı yetiyor.",
+                    "date": "21 Eylül 2026"
+                }
+            ],
+            "rating": 4.3,
+            "reviewCount": 213
+        },
+        {
+            "id": 10,
+            "name": "iMac",
+            "tagline": "Güç, tek gövdede.",
+            "description": "iMac, M3 çiple hızlanan hepsi bir arada bir masaüstü bilgisayardır. 24 inç 4,5K Retina ekran yüksek parlaklık ve bir milyardan fazla renk sunar. İnce gövde yedi canlı renkte gelir. Kamera ve stüdyo mikrofonları görüşmeyi netleştirir.",
+            "price": "59999",
+            "currency": "TRY",
+            "image": "https://wantapi.com/assets/images/imac.png",
+            "specs": {
+                "chip": "M3",
+                "display": "24 inç 4,5K",
+                "colors": "7 renk"
+            },
+            "reviews": [
+                {
+                    "author": "Elif Kaya",
+                    "stars": 5,
+                    "text": "iMac günlük iş ve derste fanı az çalıştı. Ekran metni net.",
+                    "date": "12 Ekim 2026"
+                },
+                {
+                    "author": "Mert Aydın",
+                    "stars": 4,
+                    "text": "Pil adaptörsüz bir günü çıkardı. Klavye sertliği bana uygun.",
+                    "date": "3 Ekim 2026"
+                },
+                {
+                    "author": "Zeynep Demir",
+                    "stars": 5,
+                    "text": "Taşıması düşündüğümden hafif. Ofis işi için hızı yetiyor.",
+                    "date": "21 Eylül 2026"
+                }
+            ],
+            "rating": 4.7,
+            "reviewCount": 230
+        },
+        {
+            "id": 11,
+            "name": "iPad Pro 12.9\"",
+            "tagline": "M2 ile tam güç.",
+            "description": "12,9 inç iPad Pro, M2 çiple en üst tablet deneyimini hedefler. Liquid Retina XDR ekran yüksek kontrastla ayrıntıyı korur. Kalem yaklaşınca çizgi bırakılmadan önce önizlenir. Hızlı kablosuz bağlantı aksesuarlarla çalışmayı kolaylaştırır.",
+            "price": "79999",
+            "currency": "TRY",
+            "image": "https://wantapi.com/assets/images/ipad.png",
+            "specs": {
+                "chip": "M2",
+                "screen": "XDR",
+                "pencil": "Yaklaşma"
+            },
+            "reviews": [
+                {
+                    "author": "Elif Kaya",
+                    "stars": 5,
+                    "text": "iPad Pro 12.9\" not ve dizi için geniş. Kalemle yazı gecikmesi az.",
+                    "date": "12 Ekim 2026"
+                },
+                {
+                    "author": "Mert Aydın",
+                    "stars": 4,
+                    "text": "Hoparlör yatay tutunca filme yetiyor. Çantada ince duruyor.",
+                    "date": "3 Ekim 2026"
+                },
+                {
+                    "author": "Zeynep Demir",
+                    "stars": 4,
+                    "text": "Ekran bölünce video ve not birlikte açıldı. Pil ders gününü çıkardı.",
+                    "date": "21 Eylül 2026"
+                }
+            ],
+            "rating": 4.3,
+            "reviewCount": 247
+        },
+        {
+            "id": 12,
+            "name": "iPad Air",
+            "tagline": "İnce, parlak, güçlü.",
+            "description": "iPad Air ciddi performansı ince gövdeyle birleştirir. M1 çip hız ve gün boyu pil sunar. 10,9 inç Liquid Retina ekranda geniş renk ve yansıma önleyici kaplama vardır. Üst düğmedeki parmak izi kilidi hızlı açar.",
+            "price": "39999",
+            "currency": "TRY",
+            "image": "https://wantapi.com/assets/images/ipad_air.png",
+            "specs": {
+                "chip": "M1",
+                "display": "10,9 inç",
+                "connectivity": "5G"
+            },
+            "reviews": [
+                {
+                    "author": "Elif Kaya",
+                    "stars": 5,
+                    "text": "iPad Air not ve dizi için geniş. Kalemle yazı gecikmesi az.",
+                    "date": "12 Ekim 2026"
+                },
+                {
+                    "author": "Mert Aydın",
+                    "stars": 4,
+                    "text": "Hoparlör yatay tutunca filme yetiyor. Çantada ince duruyor.",
+                    "date": "3 Ekim 2026"
+                },
+                {
+                    "author": "Zeynep Demir",
+                    "stars": 5,
+                    "text": "Ekran bölünce video ve not birlikte açıldı. Pil ders gününü çıkardı.",
+                    "date": "21 Eylül 2026"
+                }
+            ],
+            "rating": 4.7,
+            "reviewCount": 264
+        },
+        {
+            "id": 13,
+            "name": "iPad Mini",
+            "tagline": "Küçük boy, büyük güç.",
+            "description": "iPad Mini, avuç içine sığan boyutta tam tablet deneyimi sunar. 8,3 inç Liquid Retina ekran keskin ve canlıdır. A15 Bionic çip ağır iş ve oyunlarda zorlanmaz. Geniş ön kamera yüzü kadrajda tutar. Not ve okuma için yanında taşınır.",
+            "price": "29999",
+            "currency": "TRY",
+            "image": "https://wantapi.com/assets/images/ipad_mini.png",
+            "specs": {
+                "chip": "A15 Bionic",
+                "display": "8,3 inç",
+                "camera": "12 MP geniş"
+            },
+            "reviews": [
+                {
+                    "author": "Elif Kaya",
+                    "stars": 5,
+                    "text": "iPad Mini not ve dizi için geniş. Kalemle yazı gecikmesi az.",
+                    "date": "12 Ekim 2026"
+                },
+                {
+                    "author": "Mert Aydın",
+                    "stars": 4,
+                    "text": "Hoparlör yatay tutunca filme yetiyor. Çantada ince duruyor.",
+                    "date": "3 Ekim 2026"
+                },
+                {
+                    "author": "Zeynep Demir",
+                    "stars": 4,
+                    "text": "Ekran bölünce video ve not birlikte açıldı. Pil ders gününü çıkardı.",
+                    "date": "21 Eylül 2026"
+                }
+            ],
+            "rating": 4.3,
+            "reviewCount": 281
+        },
+        {
+            "id": 14,
+            "name": "Apple Watch Ultra 2",
+            "tagline": "Bir üst seviye.",
+            "description": "Apple Watch Ultra 2 dayanıklılık ve uzun süre için tasarlanmıştır. Hafif titanyum kasa safir camı korur. 3000 nite varan parlaklık güneşte de okunur. Çift frekanslı konum zor arazide daha doğru sonuç verir. 36 saate varan pil uzun günleri çıkarır.",
+            "price": "34999",
+            "currency": "TRY",
+            "image": "https://wantapi.com/assets/images/watch.png",
+            "specs": {
+                "case": "Titanyum",
+                "brightness": "3000 nit",
+                "gps": "Çift frekans"
+            },
+            "reviews": [
+                {
+                    "author": "Elif Kaya",
+                    "stars": 5,
+                    "text": "Apple Watch Ultra 2 bildirimi bilekte net gösteriyor. Kayışı gün boyu sıkmadı.",
+                    "date": "12 Ekim 2026"
+                },
+                {
+                    "author": "Mert Aydın",
+                    "stars": 4,
+                    "text": "Adım sayacı telefonla tutarlı. Ekranı dışarıda da okunuyor.",
+                    "date": "3 Ekim 2026"
+                },
+                {
+                    "author": "Zeynep Demir",
+                    "stars": 5,
+                    "text": "Şarjı iki gün civarı gitti. Spor saati arayan için sade bir seçim.",
+                    "date": "21 Eylül 2026"
+                }
+            ],
+            "rating": 4.7,
+            "reviewCount": 298
+        },
+        {
+            "id": 15,
+            "name": "Apple Watch Series 9",
+            "tagline": "Daha akıllı, daha parlak.",
+            "description": "Apple Watch Series 9, S9 çiple daha akıcı çalışır. Ekrana dokunmadan iki parmak birbirine değdirilerek komut verilir. Ekran bir önceki nesle göre daha parlaktır. Nabız ve hareket özeti gün içinde tek bakışta görünür.",
+            "price": "17999",
+            "currency": "TRY",
+            "image": "https://wantapi.com/assets/images/watch_series9.png",
+            "specs": {
+                "chip": "S9",
+                "feature": "Çift dokunuş",
+                "carbon": "Düşük karbon"
+            },
+            "reviews": [
+                {
+                    "author": "Elif Kaya",
+                    "stars": 5,
+                    "text": "Apple Watch Series 9 bildirimi bilekte net gösteriyor. Kayışı gün boyu sıkmadı.",
+                    "date": "12 Ekim 2026"
+                },
+                {
+                    "author": "Mert Aydın",
+                    "stars": 4,
+                    "text": "Adım sayacı telefonla tutarlı. Ekranı dışarıda da okunuyor.",
+                    "date": "3 Ekim 2026"
+                },
+                {
+                    "author": "Zeynep Demir",
+                    "stars": 4,
+                    "text": "Şarjı iki gün civarı gitti. Spor saati arayan için sade bir seçim.",
+                    "date": "21 Eylül 2026"
+                }
+            ],
+            "rating": 4.3,
+            "reviewCount": 315
+        },
+        {
+            "id": 16,
+            "name": "Apple Vision Pro",
+            "tagline": "Mekânsal bilgisayara merhaba.",
+            "description": "Apple Vision Pro dijital içeriği bulunduğun odayla birleştiren bir mekansal bilgisayardır. Arayüz göz, el ve sesle kontrol edilir. İki mikro OLED ekranda toplam 23 milyon piksel vardır. Mekânsal ses, sesi ortamdan geliyormuş gibi yerleştirir.",
+            "price": "179999",
+            "currency": "TRY",
+            "image": "https://wantapi.com/assets/images/vision_pro.png",
+            "specs": {
+                "os": "visionOS",
+                "display": "Mikro OLED",
+                "control": "Göz, el, ses"
+            },
+            "reviews": [
+                {
+                    "author": "Elif Kaya",
+                    "stars": 5,
+                    "text": "Apple Vision Pro gün boyu şarjı yetirdi. Ekran dışarıda da okunaklı.",
+                    "date": "12 Ekim 2026"
+                },
+                {
+                    "author": "Mert Aydın",
+                    "stars": 4,
+                    "text": "Kamera gündüz net, akşamda kumlanma makul. Elde kaymıyor.",
+                    "date": "3 Ekim 2026"
+                },
+                {
+                    "author": "Zeynep Demir",
+                    "stars": 5,
+                    "text": "Uygulamalar akıcı açıldı. Kutudan çıkan kablo işimi gördü.",
+                    "date": "21 Eylül 2026"
+                }
+            ],
+            "rating": 4.7,
+            "reviewCount": 332
+        },
+        {
+            "id": 17,
+            "name": "AirPods Pro (2nd Gen)",
+            "tagline": "Uyarlanabilir ses.",
+            "description": "AirPods Pro 2. nesil, H2 çiple daha akıllı gürültü engelleme ve daha dolu ses sunar. Uyarlanabilir ses önemli sesi öne alır, arka planı kısar. Aktif gürültü engelleme önceki nesle göre daha güçlüdür. USB-C kutusunda hoparlör ve hassas bulma vardır.",
+            "price": "13999",
+            "currency": "TRY",
+            "image": "https://wantapi.com/assets/images/airpods.png",
+            "specs": {
+                "chip": "H2",
+                "audio": "Mekânsal ses",
+                "case": "USB-C"
+            },
+            "badge": "cokTercih",
+            "reviews": [
+                {
+                    "author": "Elif Kaya",
+                    "stars": 5,
+                    "text": "AirPods Pro (2nd Gen) bası abartmadan dolu duruyor. Kulakta uzun süre rahat.",
+                    "date": "12 Ekim 2026"
+                },
+                {
+                    "author": "Mert Aydın",
+                    "stars": 4,
+                    "text": "Gürültülü otobüste dış sesi yeterince kıstı. Kutu cebimde az yer tuttu.",
+                    "date": "3 Ekim 2026"
+                },
+                {
+                    "author": "Zeynep Demir",
+                    "stars": 4,
+                    "text": "Telefonla hemen eşleşti. Görüşmede sesim karşıya net gitmiş.",
+                    "date": "21 Eylül 2026"
+                }
+            ],
+            "rating": 4.3,
+            "reviewCount": 349
+        },
+        {
+            "id": 18,
+            "name": "AirPods Max",
+            "tagline": "Sese odaklanır.",
+            "description": "AirPods Max, yüksek sadakat için tasarlanmış dinamik sürücülü bir kulak üstü kulaklıktır. Aktif gürültü engelleme dış sesi keser. Örme tavan ve kulak yastıkları hem yalıtım hem gün boyu konfor sağlar. Baş hareketi sesi etrafa yerleştirir.",
+            "price": "27999",
+            "currency": "TRY",
+            "image": "https://wantapi.com/assets/images/airpods_max.png",
+            "specs": {
+                "driver": "Dinamik",
+                "cancellation": "Aktif",
+                "materials": "Örme tavan"
+            },
+            "reviews": [
+                {
+                    "author": "Elif Kaya",
+                    "stars": 5,
+                    "text": "AirPods Max bası abartmadan dolu duruyor. Kulakta uzun süre rahat.",
+                    "date": "12 Ekim 2026"
+                },
+                {
+                    "author": "Mert Aydın",
+                    "stars": 4,
+                    "text": "Gürültülü otobüste dış sesi yeterince kıstı. Kutu cebimde az yer tuttu.",
+                    "date": "3 Ekim 2026"
+                },
+                {
+                    "author": "Zeynep Demir",
+                    "stars": 5,
+                    "text": "Telefonla hemen eşleşti. Görüşmede sesim karşıya net gitmiş.",
+                    "date": "21 Eylül 2026"
+                }
+            ],
+            "rating": 4.7,
+            "reviewCount": 366
+        },
+        {
+            "id": 19,
+            "name": "HomePod",
+            "tagline": "Odayı dolduran ses.",
+            "description": "HomePod, bulunduğu odaya göre ayarlanan yüksek sadakatli bir hoparlördür. Geniş woofer ve hüzmeli tiz dizisi bası derin, tizi net tutar. Oda algılama konuma göre sesi otomatik düzenler. Akıllı ev merkezi olarak da kullanılabilir.",
+            "price": "12999",
+            "currency": "TRY",
+            "image": "https://wantapi.com/assets/images/homepod.png",
+            "specs": {
+                "audio": "İşlemeli ses",
+                "home": "Akıllı merkez",
+                "sensing": "Oda algılama"
+            },
+            "reviews": [
+                {
+                    "author": "Elif Kaya",
+                    "stars": 5,
+                    "text": "HomePod bası abartmadan dolu duruyor. Kulakta uzun süre rahat.",
+                    "date": "12 Ekim 2026"
+                },
+                {
+                    "author": "Mert Aydın",
+                    "stars": 4,
+                    "text": "Gürültülü otobüste dış sesi yeterince kıstı. Kutu cebimde az yer tuttu.",
+                    "date": "3 Ekim 2026"
+                },
+                {
+                    "author": "Zeynep Demir",
+                    "stars": 4,
+                    "text": "Telefonla hemen eşleşti. Görüşmede sesim karşıya net gitmiş.",
+                    "date": "21 Eylül 2026"
+                }
+            ],
+            "rating": 4.3,
+            "reviewCount": 383
+        },
+        {
+            "id": 20,
+            "name": "HomePod Mini",
+            "tagline": "Küçük boy, dolu ses.",
+            "description": "HomePod Mini, boyuna göre beklenmedik kadar dolu ses verir. 8,4 cm boyuyla az yer kaplar, 360 derece sesle odayı doldurur. Telefon yaklaşınca müzik hoparlöre devredilir. Evde birkaç tane birleşince ortak bir ses sistemi olur.",
+            "price": "4999",
+            "currency": "TRY",
+            "image": "https://wantapi.com/assets/images/homepod_mini.png",
+            "specs": {
+                "size": "8,4 cm",
+                "audio": "360 derece",
+                "colors": "5 renk"
+            },
+            "badge": "yeni",
+            "reviews": [
+                {
+                    "author": "Elif Kaya",
+                    "stars": 5,
+                    "text": "HomePod Mini bası abartmadan dolu duruyor. Kulakta uzun süre rahat.",
+                    "date": "12 Ekim 2026"
+                },
+                {
+                    "author": "Mert Aydın",
+                    "stars": 4,
+                    "text": "Gürültülü otobüste dış sesi yeterince kıstı. Kutu cebimde az yer tuttu.",
+                    "date": "3 Ekim 2026"
+                },
+                {
+                    "author": "Zeynep Demir",
+                    "stars": 5,
+                    "text": "Telefonla hemen eşleşti. Görüşmede sesim karşıya net gitmiş.",
+                    "date": "21 Eylül 2026"
+                }
+            ],
+            "rating": 4.7,
+            "reviewCount": 400
+        },
+        {
+            "id": 21,
+            "name": "Samsung Galaxy S24",
+            "tagline": "İnce, parlak, gün boyu akıcı.",
+            "description": "Galaxy S24 günlük kullanım için dengeli bir amiral gemisi telefondur. Parlak ekranı dışarıda da okunaklı kalır, 50 MP kamera gece çekimlerinde ayrıntıyı korur. Titanyum hissi veren düz çerçeve elde kaymaz. Eğitim kataloğundaki fiyat ve özellikler gerçek satış koşullarını temsil etmez.",
+            "price": "42999",
+            "currency": "TRY",
+            "image": "assets/images/galaxy_s24.png",
+            "specs": {
+                "chip": "Snapdragon 8 Gen 3",
+                "material": "Alüminyum",
+                "camera": "50 MP ana"
+            },
+            "badge": "cokTercih",
+            "reviews": [
+                {
+                    "author": "Elif Kaya",
+                    "stars": 5,
+                    "text": "Samsung Galaxy S24 gün boyu şarjı yetirdi. Ekran dışarıda da okunaklı.",
+                    "date": "12 Ekim 2026"
+                },
+                {
+                    "author": "Mert Aydın",
+                    "stars": 4,
+                    "text": "Kamera gündüz net, akşamda kumlanma makul. Elde kaymıyor.",
+                    "date": "3 Ekim 2026"
+                },
+                {
+                    "author": "Zeynep Demir",
+                    "stars": 4,
+                    "text": "Uygulamalar akıcı açıldı. Kutudan çıkan kablo işimi gördü.",
+                    "date": "21 Eylül 2026"
+                }
+            ],
+            "rating": 4.3,
+            "reviewCount": 417
+        },
+        {
+            "id": 22,
+            "name": "Samsung Galaxy A55",
+            "tagline": "Günlük telefon, sağlam gövde.",
+            "description": "Galaxy A55 orta segmentte büyük ekran ve uzun pil isteyenler için düşünülmüş bir modeldir. 120 Hz ekran kaydırmayı akıcı tutar, süper hızlı şarj gün içinde kısa molada toparlar. Çerçevesi çizilmeye karşı daha dayanıklı hissettirir.",
+            "price": "24999",
+            "currency": "TRY",
+            "image": "assets/images/galaxy_a55.png",
+            "specs": {
+                "chip": "Exynos 1480",
+                "material": "Alüminyum",
+                "camera": "50 MP ana"
+            },
+            "reviews": [
+                {
+                    "author": "Elif Kaya",
+                    "stars": 5,
+                    "text": "Samsung Galaxy A55 gün boyu şarjı yetirdi. Ekran dışarıda da okunaklı.",
+                    "date": "12 Ekim 2026"
+                },
+                {
+                    "author": "Mert Aydın",
+                    "stars": 4,
+                    "text": "Kamera gündüz net, akşamda kumlanma makul. Elde kaymıyor.",
+                    "date": "3 Ekim 2026"
+                },
+                {
+                    "author": "Zeynep Demir",
+                    "stars": 5,
+                    "text": "Uygulamalar akıcı açıldı. Kutudan çıkan kablo işimi gördü.",
+                    "date": "21 Eylül 2026"
+                }
+            ],
+            "rating": 4.7,
+            "reviewCount": 434
+        },
+        {
+            "id": 23,
+            "name": "Samsung Galaxy Tab S9",
+            "tagline": "Çizim ve dizi için geniş ekran.",
+            "description": "Galaxy Tab S9 not almak, film izlemek ve hafif işler için taşınabilir bir tablettir. Ekranı parmak ve kalemle rahat kullanılır, hoparlörleri yatay tutunca filme yakışır. İnce gövdesi çantada az yer kaplar.",
+            "price": "27999",
+            "currency": "TRY",
+            "image": "assets/images/galaxy_tab_s9.png",
+            "specs": {
+                "chip": "Snapdragon 8 Gen 2",
+                "size": "11 inç",
+                "camera": "13MP"
+            },
+            "reviews": [
+                {
+                    "author": "Elif Kaya",
+                    "stars": 5,
+                    "text": "Samsung Galaxy Tab S9 not ve dizi için geniş. Kalemle yazı gecikmesi az.",
+                    "date": "12 Ekim 2026"
+                },
+                {
+                    "author": "Mert Aydın",
+                    "stars": 4,
+                    "text": "Hoparlör yatay tutunca filme yetiyor. Çantada ince duruyor.",
+                    "date": "3 Ekim 2026"
+                },
+                {
+                    "author": "Zeynep Demir",
+                    "stars": 4,
+                    "text": "Ekran bölünce video ve not birlikte açıldı. Pil ders gününü çıkardı.",
+                    "date": "21 Eylül 2026"
+                }
+            ],
+            "rating": 4.3,
+            "reviewCount": 451
+        },
+        {
+            "id": 24,
+            "name": "Samsung Galaxy Buds2",
+            "tagline": "Kulakta hafif, seste dolu.",
+            "description": "Galaxy Buds2 küçük kulak içi kulaklıktır. Aktif gürültü engelleme yürüyüşte ve otobüste dış sesi kısar. Kutu bir kez şarjla birkaç gün idare eder. Telefonla açılır açılmaz eşleşir.",
+            "price": "2999",
+            "currency": "TRY",
+            "image": "assets/images/galaxy_buds2.png",
+            "specs": {
+                "audio": "Aktif engelleme",
+                "case": "Kablosuz",
+                "colors": "Grafit"
+            },
+            "badge": "cokTercih",
+            "reviews": [
+                {
+                    "author": "Elif Kaya",
+                    "stars": 5,
+                    "text": "Samsung Galaxy Buds2 bası abartmadan dolu duruyor. Kulakta uzun süre rahat.",
+                    "date": "12 Ekim 2026"
+                },
+                {
+                    "author": "Mert Aydın",
+                    "stars": 4,
+                    "text": "Gürültülü otobüste dış sesi yeterince kıstı. Kutu cebimde az yer tuttu.",
+                    "date": "3 Ekim 2026"
+                },
+                {
+                    "author": "Zeynep Demir",
+                    "stars": 5,
+                    "text": "Telefonla hemen eşleşti. Görüşmede sesim karşıya net gitmiş.",
+                    "date": "21 Eylül 2026"
+                }
+            ],
+            "rating": 4.7,
+            "reviewCount": 468
+        },
+        {
+            "id": 25,
+            "name": "Samsung Galaxy Watch6",
+            "tagline": "Bilekte bildirim ve tempo.",
+            "description": "Galaxy Watch6 bildirimleri bilekten okutur, adım ve uyku özetini gün sonunda gösterir. Dönebilen çerçeve menüde kaybolmayı azaltır. Klasik yuvarlak kadran günlük saatin yerine geçer.",
+            "price": "8999",
+            "currency": "TRY",
+            "image": "assets/images/galaxy_watch6.png",
+            "specs": {
+                "size": "40 mm",
+                "material": "Alüminyum",
+                "chip": "Exynos W930"
+            },
+            "reviews": [
+                {
+                    "author": "Elif Kaya",
+                    "stars": 5,
+                    "text": "Samsung Galaxy Watch6 bildirimi bilekte net gösteriyor. Kayışı gün boyu sıkmadı.",
+                    "date": "12 Ekim 2026"
+                },
+                {
+                    "author": "Mert Aydın",
+                    "stars": 4,
+                    "text": "Adım sayacı telefonla tutarlı. Ekranı dışarıda da okunuyor.",
+                    "date": "3 Ekim 2026"
+                },
+                {
+                    "author": "Zeynep Demir",
+                    "stars": 4,
+                    "text": "Şarjı iki gün civarı gitti. Spor saati arayan için sade bir seçim.",
+                    "date": "21 Eylül 2026"
+                }
+            ],
+            "rating": 4.3,
+            "reviewCount": 65
+        },
+        {
+            "id": 26,
+            "name": "Xiaomi 14",
+            "tagline": "Kompakt gövde, güçlü kamera.",
+            "description": "Xiaomi 14 tek elde tutulan bir üst seviye telefondur. Ana kamera gün ışığında keskin, akşamda ise daha az kumlanma hedefler. Şarjı hızlıdır; kısa sürede günü çıkaracak seviyeye gelir.",
+            "price": "44999",
+            "currency": "TRY",
+            "image": "assets/images/xiaomi_14.png",
+            "specs": {
+                "chip": "Snapdragon 8 Gen 3",
+                "material": "Cam",
+                "camera": "50 MP ana"
+            },
+            "badge": "cokTercih",
+            "flash": true,
+            "listPrice": "52999",
+            "reviews": [
+                {
+                    "author": "Elif Kaya",
+                    "stars": 5,
+                    "text": "Xiaomi 14 gün boyu şarjı yetirdi. Ekran dışarıda da okunaklı.",
+                    "date": "12 Ekim 2026"
+                },
+                {
+                    "author": "Mert Aydın",
+                    "stars": 4,
+                    "text": "Kamera gündüz net, akşamda kumlanma makul. Elde kaymıyor.",
+                    "date": "3 Ekim 2026"
+                },
+                {
+                    "author": "Zeynep Demir",
+                    "stars": 5,
+                    "text": "Uygulamalar akıcı açıldı. Kutudan çıkan kablo işimi gördü.",
+                    "date": "21 Eylül 2026"
+                }
+            ],
+            "rating": 4.7,
+            "reviewCount": 82
+        },
+        {
+            "id": 27,
+            "name": "Redmi Note 13",
+            "tagline": "Uzun pil, sade fiyat.",
+            "description": "Redmi Note 13 gün boyu şarj taşımak istemeyenler için sade bir telefondur. Geniş ekranı video ve ders notunda rahat eder, kamerası sınıf ve sokak çekimine yeter. Gövdesi hafif olduğu için cepte yormaz.",
+            "price": "11999",
+            "currency": "TRY",
+            "image": "assets/images/redmi_note_13.png",
+            "specs": {
+                "chip": "Dimensity 6080",
+                "camera": "108 MP",
+                "material": "Plastik çerçeve"
+            },
+            "badge": "cokSatan",
+            "reviews": [
+                {
+                    "author": "Elif Kaya",
+                    "stars": 5,
+                    "text": "Redmi Note 13 gün boyu şarjı yetirdi. Ekran dışarıda da okunaklı.",
+                    "date": "12 Ekim 2026"
+                },
+                {
+                    "author": "Mert Aydın",
+                    "stars": 4,
+                    "text": "Kamera gündüz net, akşamda kumlanma makul. Elde kaymıyor.",
+                    "date": "3 Ekim 2026"
+                },
+                {
+                    "author": "Zeynep Demir",
+                    "stars": 4,
+                    "text": "Uygulamalar akıcı açıldı. Kutudan çıkan kablo işimi gördü.",
+                    "date": "21 Eylül 2026"
+                }
+            ],
+            "rating": 4.3,
+            "reviewCount": 99
+        },
+        {
+            "id": 28,
+            "name": "Xiaomi Pad 6",
+            "tagline": "Ders, çizim ve dizi.",
+            "description": "Xiaomi Pad 6 sınıf ve ev arasında taşınan bir tablettir. 144 Hz'e varan akıcı ekran kaydırmayı yumuşak gösterir. Kalemle not almak ve ekranı bölüp video açmak için geniş yüzeyi vardır.",
+            "price": "14999",
+            "currency": "TRY",
+            "image": "assets/images/xiaomi_pad_6.png",
+            "specs": {
+                "chip": "Snapdragon 870",
+                "size": "11 inç",
+                "camera": "13MP"
+            },
+            "reviews": [
+                {
+                    "author": "Elif Kaya",
+                    "stars": 5,
+                    "text": "Xiaomi Pad 6 not ve dizi için geniş. Kalemle yazı gecikmesi az.",
+                    "date": "12 Ekim 2026"
+                },
+                {
+                    "author": "Mert Aydın",
+                    "stars": 4,
+                    "text": "Hoparlör yatay tutunca filme yetiyor. Çantada ince duruyor.",
+                    "date": "3 Ekim 2026"
+                },
+                {
+                    "author": "Zeynep Demir",
+                    "stars": 5,
+                    "text": "Ekran bölünce video ve not birlikte açıldı. Pil ders gününü çıkardı.",
+                    "date": "21 Eylül 2026"
+                }
+            ],
+            "rating": 4.7,
+            "reviewCount": 116
+        },
+        {
+            "id": 29,
+            "name": "Redmi Buds 5",
+            "tagline": "Uygun fiyatlı günlük kulaklık.",
+            "description": "Redmi Buds 5 spor ve yolculuk için hafif bir kulaklıktır. Şeffaf mod çevreyi duymayı sağlar, kutu cebinde az yer tutar. Basit eşleşme ile telefona hızlı bağlanır.",
+            "price": "999",
+            "currency": "TRY",
+            "image": "assets/images/redmi_buds_5.png",
+            "specs": {
+                "audio": "Şeffaf mod",
+                "case": "USB-C",
+                "colors": "Siyah"
+            },
+            "reviews": [
+                {
+                    "author": "Elif Kaya",
+                    "stars": 5,
+                    "text": "Redmi Buds 5 bası abartmadan dolu duruyor. Kulakta uzun süre rahat.",
+                    "date": "12 Ekim 2026"
+                },
+                {
+                    "author": "Mert Aydın",
+                    "stars": 4,
+                    "text": "Gürültülü otobüste dış sesi yeterince kıstı. Kutu cebimde az yer tuttu.",
+                    "date": "3 Ekim 2026"
+                },
+                {
+                    "author": "Zeynep Demir",
+                    "stars": 4,
+                    "text": "Telefonla hemen eşleşti. Görüşmede sesim karşıya net gitmiş.",
+                    "date": "21 Eylül 2026"
+                }
+            ],
+            "rating": 4.3,
+            "reviewCount": 133
+        },
+        {
+            "id": 30,
+            "name": "Xiaomi Watch 2",
+            "tagline": "Bildirim, nabız, sade kadran.",
+            "description": "Xiaomi Watch 2 aramayı ve mesajı bileğe taşır. Nabız ve adım özeti antrenman sonrası tek bakışta görünür. Yuvarlak ekranı klasik saat gibi durur, kayış gün içinde değiştirilebilir.",
+            "price": "4999",
+            "currency": "TRY",
+            "image": "assets/images/xiaomi_watch_2.png",
+            "specs": {
+                "size": "46 mm",
+                "material": "Alüminyum",
+                "chip": "Giyilebilir çip"
+            },
+            "reviews": [
+                {
+                    "author": "Elif Kaya",
+                    "stars": 5,
+                    "text": "Xiaomi Watch 2 bildirimi bilekte net gösteriyor. Kayışı gün boyu sıkmadı.",
+                    "date": "12 Ekim 2026"
+                },
+                {
+                    "author": "Mert Aydın",
+                    "stars": 4,
+                    "text": "Adım sayacı telefonla tutarlı. Ekranı dışarıda da okunuyor.",
+                    "date": "3 Ekim 2026"
+                },
+                {
+                    "author": "Zeynep Demir",
+                    "stars": 5,
+                    "text": "Şarjı iki gün civarı gitti. Spor saati arayan için sade bir seçim.",
+                    "date": "21 Eylül 2026"
+                }
+            ],
+            "rating": 4.7,
+            "reviewCount": 150
+        },
+        {
+            "id": 31,
+            "name": "Basic Tişört",
+            "tagline": "Pamuk, düz kalıp.",
+            "description": "Günlük basic tişört. Yumuşak pamuk karışımı, düz kesim ve sade yaka. Beyaz renkte, S ile XL arası bedenlerde durur.",
+            "price": "399",
+            "currency": "TRY",
+            "image": "assets/images/basic_tisort.png",
+            "specs": {
+                "material": "Pamuk",
+                "colors": "Beyaz",
+                "size": "S-XL"
+            },
+            "gender": "unisex",
+            "flash": true,
+            "listPrice": "599",
+            "badge": "cokSatan",
+            "reviews": [
+                {
+                    "author": "Elif Kaya",
+                    "stars": 5,
+                    "text": "Basic Tişört kalıbı beklediğim gibi. Kumaşı gün içinde rahatsız etmedi.",
+                    "date": "12 Ekim 2026"
+                },
+                {
+                    "author": "Mert Aydın",
+                    "stars": 4,
+                    "text": "Beden tablosu doğru çıktı. Basic Tişört fiyatına göre düzgün duruyor.",
+                    "date": "3 Ekim 2026"
+                },
+                {
+                    "author": "Zeynep Demir",
+                    "stars": 4,
+                    "text": "İki yıkamadan sonra formu bozulmadı. Günlük kullanım için yeterli.",
+                    "date": "21 Eylül 2026"
+                }
+            ],
+            "rating": 4.3,
+            "reviewCount": 167
+        },
+        {
+            "id": 32,
+            "name": "Kapüşonlu Sweatshirt",
+            "tagline": "Serin hava için kapüşon.",
+            "description": "İç yüzü yumuşak kapüşonlu sweatshirt. Cepli, rahat kalıp. Spor ve günlük kullanım için.",
+            "price": "899",
+            "currency": "TRY",
+            "image": "assets/images/sweatshirt.png",
+            "specs": {
+                "material": "Pamuk karışım",
+                "colors": "Gri",
+                "size": "S-XL"
+            },
+            "gender": "unisex",
+            "badge": "cokTercih",
+            "reviews": [
+                {
+                    "author": "Elif Kaya",
+                    "stars": 5,
+                    "text": "Kapüşonlu Sweatshirt kalıbı beklediğim gibi. Kumaşı gün içinde rahatsız etmedi.",
+                    "date": "12 Ekim 2026"
+                },
+                {
+                    "author": "Mert Aydın",
+                    "stars": 4,
+                    "text": "Beden tablosu doğru çıktı. Kapüşonlu Sweatshirt fiyatına göre düzgün duruyor.",
+                    "date": "3 Ekim 2026"
+                },
+                {
+                    "author": "Zeynep Demir",
+                    "stars": 5,
+                    "text": "İki yıkamadan sonra formu bozulmadı. Günlük kullanım için yeterli.",
+                    "date": "21 Eylül 2026"
+                }
+            ],
+            "rating": 4.7,
+            "reviewCount": 184
+        },
+        {
+            "id": 33,
+            "name": "Kot Ceket",
+            "tagline": "Üstüne alınan klasik kat.",
+            "description": "Düz kot ceket. Gömlek ve tişört üstüne giyilir, düğmeli ön ve iki cep vardır.",
+            "price": "1799",
+            "currency": "TRY",
+            "image": "assets/images/kot_ceket.png",
+            "specs": {
+                "material": "Kot",
+                "colors": "Mavi",
+                "size": "S-XL"
+            },
+            "gender": "unisex",
+            "reviews": [
+                {
+                    "author": "Elif Kaya",
+                    "stars": 5,
+                    "text": "Kot Ceket kalıbı beklediğim gibi. Kumaşı gün içinde rahatsız etmedi.",
+                    "date": "12 Ekim 2026"
+                },
+                {
+                    "author": "Mert Aydın",
+                    "stars": 4,
+                    "text": "Beden tablosu doğru çıktı. Kot Ceket fiyatına göre düzgün duruyor.",
+                    "date": "3 Ekim 2026"
+                },
+                {
+                    "author": "Zeynep Demir",
+                    "stars": 4,
+                    "text": "İki yıkamadan sonra formu bozulmadı. Günlük kullanım için yeterli.",
+                    "date": "21 Eylül 2026"
+                }
+            ],
+            "rating": 4.3,
+            "reviewCount": 201
+        },
+        {
+            "id": 34,
+            "name": "Koşu Ayakkabısı",
+            "tagline": "Hafif taban, günlük tempo.",
+            "description": "Bağcıklı koşu ayakkabısı. Yumuşak taban yürüyüş ve kısa koşuda yormaz.",
+            "price": "2499",
+            "currency": "TRY",
+            "image": "assets/images/kosu_ayakkabi.png",
+            "specs": {
+                "material": "File ve kauçuk",
+                "colors": "Siyah",
+                "size": "36-45"
+            },
+            "gender": "unisex",
+            "badge": "cokSatan",
+            "reviews": [
+                {
+                    "author": "Elif Kaya",
+                    "stars": 5,
+                    "text": "Koşu Ayakkabısı kalıbı beklediğim gibi. Kumaşı gün içinde rahatsız etmedi.",
+                    "date": "12 Ekim 2026"
+                },
+                {
+                    "author": "Mert Aydın",
+                    "stars": 4,
+                    "text": "Beden tablosu doğru çıktı. Koşu Ayakkabısı fiyatına göre düzgün duruyor.",
+                    "date": "3 Ekim 2026"
+                },
+                {
+                    "author": "Zeynep Demir",
+                    "stars": 5,
+                    "text": "İki yıkamadan sonra formu bozulmadı. Günlük kullanım için yeterli.",
+                    "date": "21 Eylül 2026"
+                }
+            ],
+            "rating": 4.7,
+            "reviewCount": 218
+        },
+        {
+            "id": 35,
+            "name": "Kadın Keten Elbise",
+            "tagline": "Yazlık, düz kalıp.",
+            "description": "Keten görünümlü midi elbise. Gün içinde serin durur, kemersiz düz kalıbı sade kombinlere uyar.",
+            "price": "1299",
+            "currency": "TRY",
+            "image": "assets/images/kadin_elbise.png",
+            "gender": "kadin",
+            "badge": "cokTercih",
+            "specs": {
+                "material": "Keten karışım",
+                "colors": "Kum rengi",
+                "size": "S-XL"
+            },
+            "reviews": [
+                {
+                    "author": "Elif Kaya",
+                    "stars": 5,
+                    "text": "Kadın Keten Elbise kalıbı beklediğim gibi. Kumaşı gün içinde rahatsız etmedi.",
+                    "date": "12 Ekim 2026"
+                },
+                {
+                    "author": "Mert Aydın",
+                    "stars": 4,
+                    "text": "Beden tablosu doğru çıktı. Kadın Keten Elbise fiyatına göre düzgün duruyor.",
+                    "date": "3 Ekim 2026"
+                },
+                {
+                    "author": "Zeynep Demir",
+                    "stars": 4,
+                    "text": "İki yıkamadan sonra formu bozulmadı. Günlük kullanım için yeterli.",
+                    "date": "21 Eylül 2026"
+                }
+            ],
+            "rating": 4.3,
+            "reviewCount": 235,
+            "flash": false
+        },
+        {
+            "id": 36,
+            "name": "Kadın Saten Bluz",
+            "tagline": "Flaş fiyat, soft yaka.",
+            "description": "Hafif saten bluz. Yaka bağı sade bir gömlek üstüne de tek başına da durur.",
+            "price": "699",
+            "listPrice": "999",
+            "flash": true,
+            "currency": "TRY",
+            "image": "assets/images/kadin_bluz.png",
+            "gender": "kadin",
+            "specs": {
+                "material": "Saten",
+                "colors": "Ekru",
+                "size": "S-XL"
+            },
+            "reviews": [
+                {
+                    "author": "Elif Kaya",
+                    "stars": 5,
+                    "text": "Kadın Saten Bluz kalıbı beklediğim gibi. Kumaşı gün içinde rahatsız etmedi.",
+                    "date": "12 Ekim 2026"
+                },
+                {
+                    "author": "Mert Aydın",
+                    "stars": 4,
+                    "text": "Beden tablosu doğru çıktı. Kadın Saten Bluz fiyatına göre düzgün duruyor.",
+                    "date": "3 Ekim 2026"
+                },
+                {
+                    "author": "Zeynep Demir",
+                    "stars": 5,
+                    "text": "İki yıkamadan sonra formu bozulmadı. Günlük kullanım için yeterli.",
+                    "date": "21 Eylül 2026"
+                }
+            ],
+            "rating": 4.7,
+            "reviewCount": 252
+        },
+        {
+            "id": 37,
+            "name": "Kadın Midi Etek",
+            "tagline": "Yeni sezon, sade kesim.",
+            "description": "Belden oturan midi etek. Gömlek ve kazakla düz bir kombin kurar.",
+            "price": "899",
+            "currency": "TRY",
+            "image": "assets/images/kadin_etek.png",
+            "gender": "kadin",
+            "badge": "yeni",
+            "specs": {
+                "material": "Dokuma",
+                "colors": "Siyah",
+                "size": "S-XL"
+            },
+            "reviews": [
+                {
+                    "author": "Elif Kaya",
+                    "stars": 5,
+                    "text": "Kadın Midi Etek kalıbı beklediğim gibi. Kumaşı gün içinde rahatsız etmedi.",
+                    "date": "12 Ekim 2026"
+                },
+                {
+                    "author": "Mert Aydın",
+                    "stars": 4,
+                    "text": "Beden tablosu doğru çıktı. Kadın Midi Etek fiyatına göre düzgün duruyor.",
+                    "date": "3 Ekim 2026"
+                },
+                {
+                    "author": "Zeynep Demir",
+                    "stars": 4,
+                    "text": "İki yıkamadan sonra formu bozulmadı. Günlük kullanım için yeterli.",
+                    "date": "21 Eylül 2026"
+                }
+            ],
+            "rating": 4.3,
+            "reviewCount": 269,
+            "flash": false
+        },
+        {
+            "id": 38,
+            "name": "Kadın Topuklu Ayakkabı",
+            "tagline": "Kısa topuk, gün boyu.",
+            "description": "Kalın kısa topuklu ayakkabı. Günlük elbise ve pantolonla kullanılır.",
+            "price": "1899",
+            "currency": "TRY",
+            "image": "assets/images/kadin_topuklu.png",
+            "gender": "kadin",
+            "badge": "cokSatan",
+            "specs": {
+                "material": "Deri görünümlü",
+                "colors": "Nude",
+                "size": "36-40"
+            },
+            "reviews": [
+                {
+                    "author": "Elif Kaya",
+                    "stars": 5,
+                    "text": "Kadın Topuklu Ayakkabı kalıbı beklediğim gibi. Kumaşı gün içinde rahatsız etmedi.",
+                    "date": "12 Ekim 2026"
+                },
+                {
+                    "author": "Mert Aydın",
+                    "stars": 4,
+                    "text": "Beden tablosu doğru çıktı. Kadın Topuklu Ayakkabı fiyatına göre düzgün duruyor.",
+                    "date": "3 Ekim 2026"
+                },
+                {
+                    "author": "Zeynep Demir",
+                    "stars": 5,
+                    "text": "İki yıkamadan sonra formu bozulmadı. Günlük kullanım için yeterli.",
+                    "date": "21 Eylül 2026"
+                }
+            ],
+            "rating": 4.7,
+            "reviewCount": 286,
+            "flash": false
+        },
+        {
+            "id": 39,
+            "name": "Erkek Oxford Gömlek",
+            "tagline": "Flaş fiyat, düz yaka.",
+            "description": "Açık mavi oxford gömlek. Ofis ve günlük kullanım için düğmeli, ütüsü kolay kesim.",
+            "price": "799",
+            "listPrice": "1199",
+            "flash": true,
+            "currency": "TRY",
+            "image": "assets/images/erkek_gomlek.png",
+            "gender": "erkek",
+            "specs": {
+                "material": "Pamuk",
+                "colors": "Açık mavi",
+                "size": "S-XXL"
+            },
+            "reviews": [
+                {
+                    "author": "Elif Kaya",
+                    "stars": 5,
+                    "text": "Erkek Oxford Gömlek kalıbı beklediğim gibi. Kumaşı gün içinde rahatsız etmedi.",
+                    "date": "12 Ekim 2026"
+                },
+                {
+                    "author": "Mert Aydın",
+                    "stars": 4,
+                    "text": "Beden tablosu doğru çıktı. Erkek Oxford Gömlek fiyatına göre düzgün duruyor.",
+                    "date": "3 Ekim 2026"
+                },
+                {
+                    "author": "Zeynep Demir",
+                    "stars": 4,
+                    "text": "İki yıkamadan sonra formu bozulmadı. Günlük kullanım için yeterli.",
+                    "date": "21 Eylül 2026"
+                }
+            ],
+            "rating": 4.3,
+            "reviewCount": 303
+        },
+        {
+            "id": 40,
+            "name": "Erkek Kumaş Pantolon",
+            "tagline": "Düz paça, ofis kalıbı.",
+            "description": "Kömür rengi kumaş pantolon. Gömlek ve tişörtle düz durur, cepli ve ütülü kesimdir.",
+            "price": "1099",
+            "currency": "TRY",
+            "image": "assets/images/erkek_pantolon.png",
+            "gender": "erkek",
+            "badge": "cokTercih",
+            "specs": {
+                "material": "Kumaş",
+                "colors": "Antrasit",
+                "size": "S-XXL"
+            },
+            "reviews": [
+                {
+                    "author": "Elif Kaya",
+                    "stars": 5,
+                    "text": "Erkek Kumaş Pantolon kalıbı beklediğim gibi. Kumaşı gün içinde rahatsız etmedi.",
+                    "date": "12 Ekim 2026"
+                },
+                {
+                    "author": "Mert Aydın",
+                    "stars": 4,
+                    "text": "Beden tablosu doğru çıktı. Erkek Kumaş Pantolon fiyatına göre düzgün duruyor.",
+                    "date": "3 Ekim 2026"
+                },
+                {
+                    "author": "Zeynep Demir",
+                    "stars": 5,
+                    "text": "İki yıkamadan sonra formu bozulmadı. Günlük kullanım için yeterli.",
+                    "date": "21 Eylül 2026"
+                }
+            ],
+            "rating": 4.7,
+            "reviewCount": 320,
+            "flash": false
+        },
+        {
+            "id": 41,
+            "name": "Erkek Spor Ayakkabı",
+            "tagline": "Hafif taban, şehir temposu.",
+            "description": "Bağcıklı spor ayakkabı. Yumuşak taban yürüyüşte yormaz, açık renkli üstü günlük kombine uyar.",
+            "price": "2199",
+            "currency": "TRY",
+            "image": "assets/images/erkek_spor.png",
+            "gender": "erkek",
+            "badge": "cokSatan",
+            "specs": {
+                "material": "File ve kauçuk",
+                "colors": "Beyaz",
+                "size": "40-45"
+            },
+            "reviews": [
+                {
+                    "author": "Elif Kaya",
+                    "stars": 5,
+                    "text": "Erkek Spor Ayakkabı kalıbı beklediğim gibi. Kumaşı gün içinde rahatsız etmedi.",
+                    "date": "12 Ekim 2026"
+                },
+                {
+                    "author": "Mert Aydın",
+                    "stars": 4,
+                    "text": "Beden tablosu doğru çıktı. Erkek Spor Ayakkabı fiyatına göre düzgün duruyor.",
+                    "date": "3 Ekim 2026"
+                },
+                {
+                    "author": "Zeynep Demir",
+                    "stars": 4,
+                    "text": "İki yıkamadan sonra formu bozulmadı. Günlük kullanım için yeterli.",
+                    "date": "21 Eylül 2026"
+                }
+            ],
+            "rating": 4.3,
+            "reviewCount": 337,
+            "flash": false
+        },
+        {
+            "id": 42,
+            "name": "Erkek Kapüşonlu Mont",
+            "tagline": "Flaş fiyat, serin hava.",
+            "description": "Kapüşonlu mevsimlik mont. Rüzgarı kesen dış yüzeyi ve cepleri günlük kullanım içindir.",
+            "price": "2499",
+            "listPrice": "3299",
+            "flash": true,
+            "currency": "TRY",
+            "image": "assets/images/erkek_mont.png",
+            "gender": "erkek",
+            "specs": {
+                "material": "Su itici kumaş",
+                "colors": "Haki",
+                "size": "S-XXL"
+            },
+            "reviews": [
+                {
+                    "author": "Elif Kaya",
+                    "stars": 5,
+                    "text": "Erkek Kapüşonlu Mont kalıbı beklediğim gibi. Kumaşı gün içinde rahatsız etmedi.",
+                    "date": "12 Ekim 2026"
+                },
+                {
+                    "author": "Mert Aydın",
+                    "stars": 4,
+                    "text": "Beden tablosu doğru çıktı. Erkek Kapüşonlu Mont fiyatına göre düzgün duruyor.",
+                    "date": "3 Ekim 2026"
+                },
+                {
+                    "author": "Zeynep Demir",
+                    "stars": 5,
+                    "text": "İki yıkamadan sonra formu bozulmadı. Günlük kullanım için yeterli.",
+                    "date": "21 Eylül 2026"
+                }
+            ],
+            "rating": 4.7,
+            "reviewCount": 354
+        },
+        {
+            "id": 43,
+            "name": "Unisex Sırt Çantası",
+            "tagline": "Laptop bölmeli, sade.",
+            "description": "Günlük sırt çantası. Bilgisayar bölmesi ve ön cebi okul ve iş için yeter.",
+            "price": "899",
+            "currency": "TRY",
+            "image": "assets/images/sirt_cantasi.png",
+            "gender": "unisex",
+            "badge": "cokTercih",
+            "specs": {
+                "material": "Naylon",
+                "colors": "Siyah",
+                "size": "20 litre"
+            },
+            "reviews": [
+                {
+                    "author": "Elif Kaya",
+                    "stars": 5,
+                    "text": "Unisex Sırt Çantası kalıbı beklediğim gibi. Kumaşı gün içinde rahatsız etmedi.",
+                    "date": "12 Ekim 2026"
+                },
+                {
+                    "author": "Mert Aydın",
+                    "stars": 4,
+                    "text": "Beden tablosu doğru çıktı. Unisex Sırt Çantası fiyatına göre düzgün duruyor.",
+                    "date": "3 Ekim 2026"
+                },
+                {
+                    "author": "Zeynep Demir",
+                    "stars": 4,
+                    "text": "İki yıkamadan sonra formu bozulmadı. Günlük kullanım için yeterli.",
+                    "date": "21 Eylül 2026"
+                }
+            ],
+            "rating": 4.3,
+            "reviewCount": 371,
+            "flash": false
+        },
+        {
+            "id": 44,
+            "name": "Kadın Triko Kazak",
+            "tagline": "Flaş fiyat, yumuşak örgü.",
+            "description": "Deve tüyü rengi triko kazak. İnce örgü sonbahar için, gömlek üstüne de giyilir.",
+            "price": "749",
+            "listPrice": "1099",
+            "flash": true,
+            "currency": "TRY",
+            "image": "assets/images/kadin_kazak.png",
+            "gender": "kadin",
+            "specs": {
+                "material": "Triko",
+                "colors": "Deve tüyü",
+                "size": "S-XL"
+            },
+            "reviews": [
+                {
+                    "author": "Elif Kaya",
+                    "stars": 5,
+                    "text": "Kadın Triko Kazak kalıbı beklediğim gibi. Kumaşı gün içinde rahatsız etmedi.",
+                    "date": "12 Ekim 2026"
+                },
+                {
+                    "author": "Mert Aydın",
+                    "stars": 4,
+                    "text": "Beden tablosu doğru çıktı. Kadın Triko Kazak fiyatına göre düzgün duruyor.",
+                    "date": "3 Ekim 2026"
+                },
+                {
+                    "author": "Zeynep Demir",
+                    "stars": 5,
+                    "text": "İki yıkamadan sonra formu bozulmadı. Günlük kullanım için yeterli.",
+                    "date": "21 Eylül 2026"
+                }
+            ],
+            "rating": 4.7,
+            "reviewCount": 388
+        },
+        {
+            "id": 45,
+            "name": "Samsung Galaxy S23",
+            "tagline": "Flaş fiyat, kompakt amiral.",
+            "description": "Galaxy S23 tek elde tutulan bir üst seviye telefondur. Parlak ekranı ve 50 MP kamerası günlük çekime yeter. Flaş fiyat eğitim kataloğundaki indirimli vitrin fiyatıdır.",
+            "price": "32999",
+            "listPrice": "39999",
+            "flash": true,
+            "currency": "TRY",
+            "image": "assets/images/galaxy_s23.png",
+            "badge": "cokSatan",
+            "specs": {
+                "chip": "Snapdragon 8 Gen 2",
+                "material": "Cam",
+                "camera": "50 MP ana"
+            },
+            "reviews": [
+                {
+                    "author": "Elif Kaya",
+                    "stars": 5,
+                    "text": "Samsung Galaxy S23 gün boyu şarjı yetirdi. Ekran dışarıda da okunaklı.",
+                    "date": "12 Ekim 2026"
+                },
+                {
+                    "author": "Mert Aydın",
+                    "stars": 4,
+                    "text": "Kamera gündüz net, akşamda kumlanma makul. Elde kaymıyor.",
+                    "date": "3 Ekim 2026"
+                },
+                {
+                    "author": "Zeynep Demir",
+                    "stars": 4,
+                    "text": "Uygulamalar akıcı açıldı. Kutudan çıkan kablo işimi gördü.",
+                    "date": "21 Eylül 2026"
+                }
+            ],
+            "rating": 4.3,
+            "reviewCount": 405
+        },
+        {
+            "id": 46,
+            "name": "Samsung Galaxy Buds FE",
+            "tagline": "Kulakta hafif, net ses.",
+            "description": "Galaxy Buds FE günlük kulak içi kulaklıktır. Aktif gürültü engelleme yolda dış sesi kısar, kutu birkaç şarj daha taşır.",
+            "price": "1499",
+            "currency": "TRY",
+            "image": "assets/images/galaxy_buds_fe.png",
+            "badge": "yeni",
+            "specs": {
+                "audio": "Aktif engelleme",
+                "case": "Kablosuz",
+                "colors": "Beyaz"
+            },
+            "reviews": [
+                {
+                    "author": "Elif Kaya",
+                    "stars": 5,
+                    "text": "Samsung Galaxy Buds FE bası abartmadan dolu duruyor. Kulakta uzun süre rahat.",
+                    "date": "12 Ekim 2026"
+                },
+                {
+                    "author": "Mert Aydın",
+                    "stars": 4,
+                    "text": "Gürültülü otobüste dış sesi yeterince kıstı. Kutu cebimde az yer tuttu.",
+                    "date": "3 Ekim 2026"
+                },
+                {
+                    "author": "Zeynep Demir",
+                    "stars": 5,
+                    "text": "Telefonla hemen eşleşti. Görüşmede sesim karşıya net gitmiş.",
+                    "date": "21 Eylül 2026"
+                }
+            ],
+            "rating": 4.7,
+            "reviewCount": 422,
+            "flash": false
+        },
+        {
+            "id": 47,
+            "name": "Poco X6",
+            "tagline": "Yeni, akıcı ekran.",
+            "description": "Poco X6 hızlı ekranı ve gün boyu piliyle orta segment bir telefondur. Oyun ve video için akıcı kalır.",
+            "price": "14999",
+            "currency": "TRY",
+            "image": "assets/images/poco_x6.png",
+            "badge": "yeni",
+            "specs": {
+                "chip": "Dimensity 8300",
+                "material": "Cam",
+                "camera": "64 MP ana"
+            },
+            "reviews": [
+                {
+                    "author": "Elif Kaya",
+                    "stars": 5,
+                    "text": "Poco X6 gün boyu şarjı yetirdi. Ekran dışarıda da okunaklı.",
+                    "date": "12 Ekim 2026"
+                },
+                {
+                    "author": "Mert Aydın",
+                    "stars": 4,
+                    "text": "Kamera gündüz net, akşamda kumlanma makul. Elde kaymıyor.",
+                    "date": "3 Ekim 2026"
+                },
+                {
+                    "author": "Zeynep Demir",
+                    "stars": 4,
+                    "text": "Uygulamalar akıcı açıldı. Kutudan çıkan kablo işimi gördü.",
+                    "date": "21 Eylül 2026"
+                }
+            ],
+            "rating": 4.3,
+            "reviewCount": 439,
+            "flash": false
+        },
+        {
+            "id": 48,
+            "name": "Redmi Watch 4",
+            "tagline": "Bildirim ve tempo.",
+            "description": "Redmi Watch 4 aramayı bileğe taşır. Adım ve nabız özeti antrenman sonunda görünür. Klasik kayış günlük saatin yerine geçer.",
+            "price": "2499",
+            "currency": "TRY",
+            "image": "assets/images/redmi_watch_4.png",
+            "badge": "cokTercih",
+            "specs": {
+                "size": "47 mm",
+                "material": "Deri kayış",
+                "chip": "Giyilebilir çip"
+            },
+            "reviews": [
+                {
+                    "author": "Elif Kaya",
+                    "stars": 5,
+                    "text": "Redmi Watch 4 bildirimi bilekte net gösteriyor. Kayışı gün boyu sıkmadı.",
+                    "date": "12 Ekim 2026"
+                },
+                {
+                    "author": "Mert Aydın",
+                    "stars": 4,
+                    "text": "Adım sayacı telefonla tutarlı. Ekranı dışarıda da okunuyor.",
+                    "date": "3 Ekim 2026"
+                },
+                {
+                    "author": "Zeynep Demir",
+                    "stars": 5,
+                    "text": "Şarjı iki gün civarı gitti. Spor saati arayan için sade bir seçim.",
+                    "date": "21 Eylül 2026"
+                }
+            ],
+            "rating": 4.7,
+            "reviewCount": 456,
+            "flash": false
+        },
+        {
+            "id": 49,
+            "name": "Samsung Galaxy A35",
+            "tagline": "Günlük telefon, sağlam his.",
+            "description": "Galaxy A35 orta segmentte uzun pil ve akıcı ekran isteyenler içindir. Kamerası gündüz çekiminde yeter, gövdesi elde kaymaz.",
+            "price": "18999",
+            "currency": "TRY",
+            "image": "assets/images/galaxy_a35.png",
+            "badge": "cokTercih",
+            "specs": {
+                "chip": "Exynos 1380",
+                "material": "Cam",
+                "camera": "50 MP ana"
+            },
+            "reviews": [
+                {
+                    "author": "Elif Kaya",
+                    "stars": 5,
+                    "text": "Samsung Galaxy A35 gün boyu şarjı yetirdi. Ekran dışarıda da okunaklı.",
+                    "date": "12 Ekim 2026"
+                },
+                {
+                    "author": "Mert Aydın",
+                    "stars": 4,
+                    "text": "Kamera gündüz net, akşamda kumlanma makul. Elde kaymıyor.",
+                    "date": "3 Ekim 2026"
+                },
+                {
+                    "author": "Zeynep Demir",
+                    "stars": 4,
+                    "text": "Uygulamalar akıcı açıldı. Kutudan çıkan kablo işimi gördü.",
+                    "date": "21 Eylül 2026"
+                }
+            ],
+            "rating": 4.3,
+            "reviewCount": 473,
+            "flash": false
+        },
+        {
+            "id": 50,
+            "name": "Redmi 13C",
+            "tagline": "Flaş fiyat, sade telefon.",
+            "description": "Redmi 13C uygun fiyatlı bir günlük telefondur. Geniş ekranı video ve nota yeter, pili günü çıkarır.",
+            "price": "7999",
+            "listPrice": "9999",
+            "flash": true,
+            "currency": "TRY",
+            "image": "assets/images/redmi_13c.png",
+            "badge": "cokSatan",
+            "specs": {
+                "chip": "Helio G85",
+                "material": "Plastik çerçeve",
+                "camera": "50 MP ana"
+            },
+            "reviews": [
+                {
+                    "author": "Elif Kaya",
+                    "stars": 5,
+                    "text": "Redmi 13C gün boyu şarjı yetirdi. Ekran dışarıda da okunaklı.",
+                    "date": "12 Ekim 2026"
+                },
+                {
+                    "author": "Mert Aydın",
+                    "stars": 4,
+                    "text": "Kamera gündüz net, akşamda kumlanma makul. Elde kaymıyor.",
+                    "date": "3 Ekim 2026"
+                },
+                {
+                    "author": "Zeynep Demir",
+                    "stars": 5,
+                    "text": "Uygulamalar akıcı açıldı. Kutudan çıkan kablo işimi gördü.",
+                    "date": "21 Eylül 2026"
+                }
+            ],
+            "rating": 4.7,
+            "reviewCount": 70
+        }
+    ]
+}
